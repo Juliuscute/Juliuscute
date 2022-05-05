@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Juliuscute
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning vue.js
+- I am a full stack web developer
 - 📫 How to reach me okwarajulius99@gmail.com
 
 <!---
